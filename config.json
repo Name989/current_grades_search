@@ -1,0 +1,9 @@
+{
+  "postgresCredentials": {
+    "user": "postgres",
+    "host": "localhost",
+    "database": "postgres",
+    "password": "A123@123",
+    "port": 5432
+  }
+}

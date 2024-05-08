@@ -1,0 +1,46 @@
+[2024-05-08T09:12:24.295Z] Error upserting data into PostgreSQL: Invalid API response: Item data is missing or not iterable
+[2024-05-08T09:12:25.534Z] Error fetching data for schoolDBN 31R055, Page: 2: Request failed with status code 503
+[2024-05-08T09:12:33.350Z] Error fetching data for schoolDBN 31R055, Page: 3: Request failed with status code 503
+[2024-05-08T09:12:34.614Z] Error fetching data for schoolDBN 31R055, Page: 4: Request failed with status code 503
+[2024-05-08T09:12:35.994Z] Error fetching data for schoolDBN 31R055, Page: 5: Request failed with status code 503
+[2024-05-08T09:12:37.290Z] Error fetching data for schoolDBN 31R055, Page: 6: Request failed with status code 503
+[2024-05-08T09:12:38.602Z] Error fetching data for schoolDBN 31R055, Page: 7: Request failed with status code 503
+[2024-05-08T09:12:39.907Z] Error fetching data for schoolDBN 31R055, Page: 8: Request failed with status code 503
+[2024-05-08T09:12:41.139Z] Error fetching data for schoolDBN 31R055, Page: 9: Request failed with status code 503
+[2024-05-08T09:12:42.412Z] Error fetching data for schoolDBN 31R055, Page: 10: Request failed with status code 503
+[2024-05-08T09:12:43.640Z] Error fetching data for schoolDBN 31R055, Page: 11: Request failed with status code 503
+[2024-05-08T09:12:45.039Z] Error upserting data into PostgreSQL: Invalid API response: Item data is missing or not iterable
+[2024-05-08T09:12:46.376Z] Error fetching data for schoolDBN 31R055, Page: 13: Request failed with status code 503
+[2024-05-08T09:12:47.646Z] Error fetching data for schoolDBN 31R055, Page: 14: Request failed with status code 503
+[2024-05-08T09:12:48.933Z] Error fetching data for schoolDBN 31R055, Page: 15: Request failed with status code 503
+[2024-05-08T09:12:50.231Z] Error fetching data for schoolDBN 31R055, Page: 16: Request failed with status code 503
+[2024-05-08T09:12:51.519Z] Error fetching data for schoolDBN 31R055, Page: 17: Request failed with status code 503
+[2024-05-08T09:12:53.179Z] Error fetching data for schoolDBN 31R055, Page: 18: Request failed with status code 503
+[2024-05-08T09:12:54.480Z] Error fetching data for schoolDBN 31R055, Page: 19: Request failed with status code 503
+[2024-05-08T09:12:55.746Z] Error fetching data for schoolDBN 31R055, Page: 20: Request failed with status code 503
+[2024-05-08T09:12:57.030Z] Error fetching data for schoolDBN 31R055, Page: 21: Request failed with status code 503
+[2024-05-08T09:12:58.310Z] Error fetching data for schoolDBN 31R055, Page: 22: Request failed with status code 503
+[2024-05-08T09:12:59.579Z] Error fetching data for schoolDBN 31R055, Page: 23: Request failed with status code 503
+[2024-05-08T09:13:00.826Z] Error fetching data for schoolDBN 31R055, Page: 24: Request failed with status code 503
+[2024-05-08T09:13:02.126Z] Error fetching data for schoolDBN 31R055, Page: 25: Request failed with status code 503
+[2024-05-08T09:13:12.031Z] Error upserting data into PostgreSQL: Invalid API response: Item data is missing or not iterable
+[2024-05-08T09:13:13.364Z] Error fetching data for schoolDBN 31R055, Page: 2: Request failed with status code 503
+[2024-05-08T09:13:14.664Z] Error fetching data for schoolDBN 31R055, Page: 3: Request failed with status code 503
+[2024-05-08T09:13:15.979Z] Error fetching data for schoolDBN 31R055, Page: 4: Request failed with status code 503
+[2024-05-08T09:14:32.022Z] Error upserting data into PostgreSQL: Invalid API response: Item data is missing or not iterable
+[2024-05-08T09:14:33.305Z] Error fetching data for schoolDBN 31R055, Page: 2: Request failed with status code 503
+[2024-05-08T09:14:34.576Z] Error fetching data for schoolDBN 31R055, Page: 3: Request failed with status code 503
+[2024-05-08T09:14:35.832Z] Error fetching data for schoolDBN 31R055, Page: 4: Request failed with status code 503
+[2024-05-08T09:14:37.112Z] Error fetching data for schoolDBN 31R055, Page: 5: Request failed with status code 503
+[2024-05-08T09:16:49.375Z] Error fetching data for schoolDBN 31R055, Page: 2: Request failed with status code 503
+[2024-05-08T09:16:50.627Z] Error fetching data for schoolDBN 31R055, Page: 3: Request failed with status code 503
+[2024-05-08T09:16:52.061Z] Error fetching data for schoolDBN 31R055, Page: 4: Request failed with status code 503
+[2024-05-08T09:16:53.439Z] Error fetching data for schoolDBN 31R055, Page: 5: Request failed with status code 503
+[2024-05-08T09:21:21.349Z] Error fetching data for schoolDBN 31R055, Page: 2: Request failed with status code 503
+[2024-05-08T09:21:23.619Z] Error fetching data for schoolDBN 31R055, Page: 3: Request failed with status code 503
+[2024-05-08T09:21:25.112Z] Error fetching data for schoolDBN 31R055, Page: 4: Request failed with status code 503
+[2024-05-08T09:21:27.181Z] Error fetching data for schoolDBN 31R055, Page: 5: Request failed with status code 503
+[2024-05-08T09:21:28.546Z] Error fetching data for schoolDBN 31R055, Page: 6: Request failed with status code 503
+[2024-05-08T09:21:29.898Z] Error fetching data for schoolDBN 31R055, Page: 7: Request failed with status code 503
+[2024-05-08T09:21:31.183Z] Error fetching data for schoolDBN 31R055, Page: 8: Request failed with status code 503
+[2024-05-08T09:21:32.391Z] Error fetching data for schoolDBN 31R055, Page: 9: Request failed with status code 503
